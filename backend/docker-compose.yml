@@ -1,0 +1,20 @@
+version: '3'
+services:
+  api:
+    build:
+      context: .
+      dockerfile: dockerfile
+    command: yarn start
+    depends_on:
+      - mongodb
+    volumes:
+      - .:/src
+      - /node_modules
+    ports:
+      - 80:3000
+    links:
+      - mongodb
+  mongodb:
+    image: mongo:latest
+    ports:
+      - 27017:27017

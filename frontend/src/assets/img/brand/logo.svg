@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.65263in" height="2.084in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1811 1033"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="F" horiz-adv-x="610" d="M73.0003 0l0 716.001 491.999 0 0 -121 -347.001 0 0 -170.002 300.001 0 0 -121 -300.001 0 0 -303.999 -144.998 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil3 {fill:#333333}
+    .fil0 {fill:#ED1C24}
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fil2 {fill:black;fill-opacity:0.000000}
+    .fnt0 {font-weight:bold;font-size:716.775px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,775 0,258 447,0 895,258 895,775 447,1033 "/>
+  <path class="fil1" d="M228 201l232 0c46,0 81,2 103,6 23,4 43,12 61,24 18,12 33,28 44,48 12,21 18,43 18,68 0,27 -7,52 -22,75 -14,23 -34,40 -60,51 36,10 63,28 82,53 19,24 29,54 29,87 0,27 -6,53 -19,78 -12,25 -29,45 -50,60 -22,15 -48,24 -79,28 -20,2 -67,3 -142,3l-197 0 0 -581zm117 97l0 134 77 0c46,0 74,-1 85,-2 20,-3 36,-9 47,-21 12,-11 18,-27 18,-45 0,-18 -5,-33 -15,-44 -10,-11 -25,-18 -44,-20 -12,-1 -45,-2 -100,-2l-68 0zm0 230l0 156 109 0c42,0 69,-1 81,-3 17,-4 31,-12 42,-23 11,-13 17,-29 17,-50 0,-18 -4,-32 -13,-45 -9,-12 -21,-21 -37,-26 -16,-6 -51,-9 -104,-9l-95 0z"/>
+  <polygon class="fil2" points="447,517 0,258 0,775 "/>
+  <text x="968" y="774"  class="fil3 fnt0">FF</text>
+ </g>
+</svg>
