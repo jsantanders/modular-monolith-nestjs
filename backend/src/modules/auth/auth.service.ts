@@ -5,9 +5,9 @@ import { UserNotFoundException } from '../../exceptions/user-not-found.exception
 import { ContextService } from '../../providers/context.service';
 import { UtilsService } from '../../providers/utils.service';
 import { ConfigService } from '../../shared/services/config.service';
-import { UserDto } from '../user/dto/UserDto';
-import { UserEntity } from '../user/user.entity';
-import { UserService } from '../user/user.service';
+import { UserDto } from '../users/dto/UserDto';
+import { UserEntity } from '../users/user.entity';
+import { UserService } from '../users/user.service';
 import { TokenPayloadDto } from './dto/TokenPayloadDto';
 import { UserLoginDto } from './dto/UserLoginDto';
 

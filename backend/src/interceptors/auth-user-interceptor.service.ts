@@ -7,7 +7,7 @@ import {
 import { Observable } from 'rxjs';
 
 import { AuthService } from '../modules/auth/auth.service';
-import { UserEntity } from '../modules/user/user.entity';
+import { UserEntity } from '../modules/users/user.entity';
 
 @Injectable()
 export class AuthUserInterceptor implements NestInterceptor {
